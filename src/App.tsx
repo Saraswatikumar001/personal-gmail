@@ -3,10 +3,12 @@ import Navbar from './primary-components/Main-nav'
 
 function App() {
 
+  const Name = "shruti";
+
   return (
     <>
     <Navbar />
-      <h1 className='text-3xl font-bold text-[15vh]'>hello</h1>
+      <h1 className='font-bold text-[8vh] capitalize'>briliant software developer <span className='font-[900] uppercase'>{Name}</span></h1>
     </>
   )
 }
