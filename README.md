@@ -1,4 +1,4 @@
-# Gmail Clone 📩  
+# Personal Gmail Software 📩  
 
 A full-stack Gmail clone built with **React, Tailwind CSS, and Node.js (Express.js)** using **TypeScript** for type safety.  
 
@@ -22,4 +22,4 @@ A full-stack Gmail clone built with **React, Tailwind CSS, and Node.js (Express.
 ## 📌 Setup Instructions  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/your-username/gmail-clone.git
+   git clone https://github.com/Saraswatikumar001/personal-gmail.git
