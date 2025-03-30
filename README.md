@@ -5,8 +5,8 @@ A full-stack Gmail clone built with **React, Tailwind CSS, and Node.js (Express.
 ## 🚀 Tech Stack  
 - **Frontend:** React.js, Tailwind CSS, TypeScript  
 - **Backend:** Node.js, Express.js, TypeScript  
-- **Database:** PostgreSQL/MongoDB (based on preference)  
-- **Authentication:** Firebase/Auth0 or JWT-based authentication  
+- **Database:** PostgreSQL  
+- **Authentication:** Auth0 
 - **State Management:** React Query/Zustand  
 - **Email Handling:** Nodemailer, IMAP/SMTP integration  
 
