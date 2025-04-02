@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <div className='grid grid-cols-2'>
-        <div>
+        <div className='col-start-2'>
           <Mainnav />
         </div>
 
