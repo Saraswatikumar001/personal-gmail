@@ -6,8 +6,12 @@ function App() {
 
   return (
     <>
-      <Mainnav />
-      
+      <div className='grid grid-cols-2'>
+        <div>
+          <Mainnav />
+        </div>
+
+      </div>
     </>
   )
 }
