@@ -1,7 +1,9 @@
 const Navbar = () => {
     return (
         <>
-        hii
+            <div className="max-w-sm rounded overflow-hidden shadow-lg h-full">
+
+            </div>
         </>
     )
 }
