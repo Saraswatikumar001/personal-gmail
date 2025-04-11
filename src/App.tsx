@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <div className='flex flex-col md:flex-row'>
-        <div className='bg-blue-500 p-4 flex-1 text-white h-full'>
+        <div className='bg-blue-500 p-4 flex-1 text-white h-[100vh]'>
           <Mainnav />
         </div>
         <div className='bg-green-500 p-4 flex-2 text-white'>
