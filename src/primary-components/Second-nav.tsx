@@ -6,9 +6,12 @@ const Secondnavbar = () => {
                     <i className=" text-3xl bi bi-envelope-at  text-black"></i>
                     <p className="text-3xl text-black capitalize ms-3 font-normal" style={{ fontFamily: "sans-serif" }}>gmail</p>
                 </div>
-                <button className=" text-white font-bold py-2 px-4 mt-12 rounded cursor-pointer">
+               <div className="flex items-center justify-center">
+               <button className=" text-white font-bold py-2 px-4 mt-12 rounded cursor-pointer bg-[#e9eef6]">
                     <i className="fa-solid fa-wand-magic text-black text-2xl"></i>
+                    <p className="text-2xl text-black capitalize ms-3 font-normal" style={{ fontFamily: "sans-serif" }}>compose</p>
                 </button>
+               </div>
             </div>
         </>
     )
