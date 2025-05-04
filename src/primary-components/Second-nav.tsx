@@ -3,8 +3,8 @@ const Secondnavbar = () => {
         <>
             <div className="max-w-sm h-full pt-5">
                 <div className="flex items-center mt-3 justify-center">
-                    <i className="bi bi-envelope-at  text-black capitalize"></i>
-                    <p className="text-sm text-black capitalize">gmail</p>
+                    <i className=" text-3xl bi bi-envelope-at  text-black"></i>
+                    <p className="text-3xl text-black capitalize ms-3">gmail</p>
                 </div>
             </div>
         </>
