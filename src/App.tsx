@@ -1,6 +1,7 @@
 import './App.css'
 import Mainnav from './primary-components/Main-nav'
 import Secondnavbar from './primary-components/Second-nav'
+import Defaultcontent from './secondary-component/Default-content'
 
 function App() {
 
@@ -11,11 +12,11 @@ function App() {
         <div className='flex-1 text-white h-full bg-[#e9eef6]'>
           <Mainnav />
         </div>
-        <div className='flex-2 text-white'>
+        <div className='flex-3 text-white'>
           <Secondnavbar />
         </div>
-        <div className='p-4 flex-15 text-white'>
-          
+        <div className='p-4 flex-14 text-white'>
+        <Defaultcontent/>
         </div>
       </div>
     </>
